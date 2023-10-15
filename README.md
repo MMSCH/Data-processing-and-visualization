@@ -1,7 +1,7 @@
 # Data-processing-and-visualization
 Тестовое задание для аналитика данных
 
-Найти само задание можно в файле 'Аналитика данных.docx'
+Найти само задание можно в файле [Аналитика данных.docx](https://github.com/MMSCH/Data-processing-and-visualization/blob/main/Аналитика%20данных.docx)
 
 Файлы:
 
